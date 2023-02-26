@@ -12,7 +12,8 @@ I did the following steps to install my AWS CLI.
 
 I installed the AWS CLI for windows 10 via command in **Command Prompt**:
 
-I followed the instructions on the [AWS CLI Install Documentation Page]
+I followed the instructions on the [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
 
 ![Installing AWS CLI](assets/Wk0-Proof-of-AWS-CLI-installation.png)
 
