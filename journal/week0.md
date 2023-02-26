@@ -20,6 +20,6 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 I attempted to run the command by typing in 'aws' but got an error which by my closing and reopening the command prompt later worked.
 
-![Proof of working AWS CLI](Wk%200%20Proof%20of%20AWS%20CLI.png)
+![Proof of working AWS CLI](assets/Wk%200%20Proof%20of%20AWS%20CLI.png)
 
 
