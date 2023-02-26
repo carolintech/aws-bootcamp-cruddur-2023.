@@ -25,4 +25,6 @@ I attempted to run the command by typing in 'aws' but got an error which by my c
 
 ![Proof of working AWS CLI](assets/Wk0-Proof-of-AWS-CLI.png)
 
+![cruddur logical design](assets/logical-recreation-architecture-diagram.png)
+
 
