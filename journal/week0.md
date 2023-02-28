@@ -15,7 +15,7 @@ I installed the AWS CLI for windows 10 via command in **Command Prompt**:
 I followed the instructions on the [AWS CLI Install Documentation Page](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 
-![Installing AWS CLI](assets/Wk0-Proof-of-AWS-CLI-installation.png)
+![Installing AWS CLI](assets/wk0-proof-of-aws-cli-installation.png)
 
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
@@ -23,7 +23,7 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 I attempted to run the command by typing in 'aws' but got an error which by my closing and reopening the command prompt later worked.
 
-![Proof of working AWS CLI](assets/Wk0-Proof-of-AWS-CLI.png)
+![Proof of working AWS CLI](assets/wk0-proof-of-aws-cli.png)
 
 ### Recreate Logical Architectural Diagram
 
