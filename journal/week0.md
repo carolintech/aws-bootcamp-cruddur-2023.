@@ -42,6 +42,8 @@ I created both for $1 because I cannot afford any kind of spend.
 
 ![Cruddur Conceptual Design](assets/conceptual-recreation-diagram.png)
 
+[Lucid Charts Share Link](https://lucid.app/lucidchart/16d04a2b-4210-4513-b40c-a7d5462d4972/edit?viewport_loc=-48%2C-41%2C2051%2C900%2C0_0&invitationId=inv_4f44a3a0-608a-4900-9ffe-f0cbec19d875)
+
 
 
 
