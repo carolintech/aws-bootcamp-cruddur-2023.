@@ -23,10 +23,19 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
 I attempted to run the command by typing in 'aws' but got an error which by my closing and reopening the command prompt later worked.
 
-![Proof of working AWS CLI](assets/wk0-proof-of-aws-cli.png)
+![Proof of Working AWS CLI](assets/wk0-proof-of-aws-cli.png)
+
+### Create a Budget
+
+I created a zero spend budget and a credit spend budget.
+I created both for $1 because I cannot afford any kind of spend.
+
+![Image of the Budget Alarm](assets/budget-alarm.png)
 
 ### Recreate Logical Architectural Diagram
 
 ![cruddur logical design](assets/logical-recreation-architecture-diagram.png)
+
+
 
 
