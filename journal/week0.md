@@ -34,7 +34,9 @@ I created both for $1 because I cannot afford any kind of spend.
 
 ### Recreate Logical Architectural Diagram
 
-![cruddur logical design](assets/logical-recreation-architecture-diagram.png)
+![Cruddur Logical Design](assets/logical-recreation-architecture-diagram.png)
+
+[Lucid Charts Share Link](https://lucid.app/lucidchart/e739c2a0-2339-42d1-8081-580b7d0bb86a/edit?viewport_loc=-108%2C63%2C2341%2C1027%2C0_0&invitationId=inv_0eed8aec-8a9f-4c44-ac80-d58727ae0a1a)
 
 
 
